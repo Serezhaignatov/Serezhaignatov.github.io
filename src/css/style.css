@@ -71,6 +71,36 @@ width: 100%;
     color: #263244;
     text-align: center;
     margin-top: 108px;
-    
+    font-weight: 300;  
 }
+.p1{
+    font-size: 12px;
+    text-transform: capitalize;
+    color: #979da6;
+    margin: 325px;
+    margin-bottom: 40px
+   
+}
+
+.p2{
+    font-size: 12px;
+    text-transform: capitalize;
+    color: #979da6;
+    margin-top: 40px
+}
+
+.str2 input{
+     height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 13px;
+    padding: 0 16px;
+    margin: 42px;
+}
+
+     
+
 
